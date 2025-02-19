@@ -2,12 +2,12 @@
 
 **Objective:** This assignment will give you hands-on experience with forking a repository, creating a branch, adding content, and contributing back through a pull request. You will be interacting with a simulated "internship" project.
 
-**Repo to Contribute to:** `[Replace with the actual GitHub repo URL]`/internship
+**Repo to Contribute to:** [internship repo](https://github.com/iwstech3/internship)
 
 **Steps:**
 
 1. **Star the Repository:**
-    * Navigate to the  `[Replace with the actual GitHub repo URL]`/internship repository on GitHub.
+    * Navigate to the:[internship repo](https://github.com/iwstech3/internship)
     * Click the "Star" button at the top right of the page.  This helps us track engagement!
 
 2. **Fork the Repository:**
